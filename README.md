@@ -140,6 +140,9 @@ docker-compose up -d
 docker-compose stop 
 ```
       
-#### cluster_token.txt
-获取 `cluster_token.txt` 文件
+获取 [cluster_token.txt](https://accounts.klei.com/account/game/servers?game=DontStarveTogether) ，保存在 cluster_token.txt 文件中
 
+
+## 参考与感谢
+- https://github.com/Jamesits/docker-dst-server
+- https://github.com/yanxin152133/docker-dst/tree/master
